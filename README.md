@@ -1,5 +1,7 @@
 # ecom_project
 
+![Image](https://github.com/user-attachments/assets/944682b4-7e9c-43b8-a7ab-d48b8df4446b)
+
 Ecom is a demo E-commerce mobile application UI built with Flutter.
 It focuses purely on user interface design, showcasing the layout and navigation flow of a shopping app.
 
